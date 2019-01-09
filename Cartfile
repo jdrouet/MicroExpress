@@ -1,0 +1,2 @@
+github "jdrouet/swift-nio" == 1.12.0
+github "jdrouet/mustache" == 0.5.6

@@ -1,4 +1,0 @@
-module CNIOSHA1 {
-    umbrella "/Users/jdrouet/Workspaces/MicroExpress/.build/checkouts/swift-nio.git--1704076921303844913/Sources/CNIOSHA1/include"
-    export *
-}
