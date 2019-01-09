@@ -20,10 +20,10 @@ let package = Package(
         .package(url: "https://github.com/AlwaysRightInstitute/cows.git",
                  from: "1.0.0"),
         */
-        .package(url: "https://github.com/apple/swift-nio.git", 
-                 from: "1.9.2"),
+        .package(url: "https://github.com/docker/swift-nio.git",
+                 from: "1.12.0-carthage"),
         .package(url: "https://github.com/AlwaysRightInstitute/mustache.git",
-                 from: "0.5.5")
+                 from: "0.5.6")
     ],
 
     targets: [
